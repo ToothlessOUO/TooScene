@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2EBCEBD6-4163-59A4-AAD4-0BB463E8D550}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TooProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,3 @@
+[submodule "Plugins/ToColorful"]
+	path = Plugins/ToColorful
+	url = https://git.code.tencent.com/Toothless/ToColorful.git
